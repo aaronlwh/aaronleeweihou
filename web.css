@@ -83,15 +83,13 @@ footer {
 
 .category {
     margin-bottom: 2rem;
+    display: flex;
+    gap: 1rem;
+    flex-wrap: wrap;
 }
 
 .category h3 {
     margin-bottom: 1rem;
-}
-.blog-posts {
-    display: flex;
-    gap: 1rem;
-    flex-wrap: wrap;
 }
 
 .blog-post {
