@@ -101,4 +101,7 @@ footer {
     margin-bottom: 1rem;
     flex: 1 1 calc(33% - 1rem);
     box-sizing: border-box;
+    float: left;
+    width: 25%;
+    padding: 0 10px;
 }
